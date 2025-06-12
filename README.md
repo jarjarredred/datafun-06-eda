@@ -4,6 +4,10 @@
 Added  .ipynb_checkpoints/ to gitignore
 Added packages to requirements.txt
 
+## Step 2: Link to Dataset
+Link to seaborn healthexp.csv dataset: https://github.com/mwaskom/seaborn-data/blob/master/healthexp.csv
+The database shows each country's life expectancy and spending in USD, from 2021.
+
 ## CheatSheet: Managing Virtual Environment
 
 For **Windows PowerShell** (adjust commands if using Mac/Linux):
