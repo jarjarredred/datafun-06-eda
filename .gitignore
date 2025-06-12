@@ -17,6 +17,12 @@
 .env.*
 
 # ----------------------------------------
+# Jupyter Notebook (ignore specific files)
+ .ipynb_checkpoints/
+# ----------------------------------------
+
+
+# ----------------------------------------
 # Python (ignore for all Python projects)
 # ----------------------------------------
 .venv/
