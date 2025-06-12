@@ -1,7 +1,8 @@
-# datafun-04-eda Summer 1 - module 6
+# datafun-06-eda Summer 1 - module 6
 
 ## Step 1: Initiated repo with requirements
 Added  .ipynb_checkpoints/ to gitignore
+Added packages to requirements.txt
 
 ## CheatSheet: Managing Virtual Environment
 
