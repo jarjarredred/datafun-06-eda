@@ -320,3 +320,11 @@ seaborn
 
 # For request validation and serialization in FastAPI (5-10 MB)
 # pydantic     
+
+# Additional packages for module 6
+jupyterlab
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
