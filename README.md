@@ -1,4 +1,6 @@
-# datafun-04-eda Summer 1 - module 4
+# datafun-04-eda Summer 1 - module 6
+
+## Step 1: Initiated repo with requirements
 
 ## CheatSheet: Managing Virtual Environment
 
