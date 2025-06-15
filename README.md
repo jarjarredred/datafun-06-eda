@@ -10,6 +10,8 @@ The database shows each country's life expectancy and spending in USD, from 2021
 
 ## Step 3: Initiate Jupyter Notebook
 
+## Step 4: Load and Analyze Data
+
 ## CheatSheet: Managing Virtual Environment
 
 For **Windows PowerShell** (adjust commands if using Mac/Linux):
