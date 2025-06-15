@@ -8,6 +8,8 @@ Added packages to requirements.txt
 Link to seaborn healthexp.csv dataset: https://github.com/mwaskom/seaborn-data/blob/master/healthexp.csv
 The database shows each country's life expectancy and spending in USD, from 2021.
 
+## Step 3: Initiate Jupyter Notebook
+
 ## CheatSheet: Managing Virtual Environment
 
 For **Windows PowerShell** (adjust commands if using Mac/Linux):
