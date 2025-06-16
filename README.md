@@ -12,6 +12,8 @@ The database shows each country's life expectancy and spending in USD, from 2021
 
 ## Step 4: Load and Analyze Data
 
+## Step 5: Created Graphs and Intrepreted Stories
+
 ## CheatSheet: Managing Virtual Environment
 
 For **Windows PowerShell** (adjust commands if using Mac/Linux):
